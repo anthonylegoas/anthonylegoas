@@ -28,3 +28,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+## ✍️ Posts
+
+- 🇬🇧 [My tech trends of 2020](https://dev.to/anthony_legoas/my-tech-trends-of-2020-cjn)
+- 🇬🇧 [Improve your styling with Chrome Devtools - part 1](https://dev.to/zenika/improve-your-styling-with-chrome-devtools-part-1-4ogm)
+- 🇬🇧 [Svelte, why so much hype ?](https://dev.to/zenika/svelte-why-so-much-hype-2k61)
+- 🇫🇷 [Svelte, pourquoi tant de hype ?](https://medium.com/@anthony.legoas/svelte-pourquoi-tant-de-hype-3ead1a8fab5f)
