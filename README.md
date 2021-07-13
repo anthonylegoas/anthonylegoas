@@ -35,3 +35,13 @@
 - 🇬🇧 [Improve your styling with Chrome Devtools - part 1](https://dev.to/zenika/improve-your-styling-with-chrome-devtools-part-1-4ogm)
 - 🇬🇧 [Svelte, why so much hype ?](https://dev.to/zenika/svelte-why-so-much-hype-2k61)
 - 🇫🇷 [Svelte, pourquoi tant de hype ?](https://medium.com/@anthony.legoas/svelte-pourquoi-tant-de-hype-3ead1a8fab5f)
+
+## 📢 Talks
+
+- 🇫🇷 Compilez pour l'accessibilité avec Svelte - Best Of TZ Zenika - July 2021
+- 🇫🇷 Devenir Svelte en 10min - Human Talks - May 2021
+- 🇬🇧 Compile for accessibility with Svelte - Svelte Summit - Apr. 2021
+- 🇫🇷 [Svelte, le framework qui sauve les bébés phoques - Svelte Society Day France](https://www.youtube.com/watch?v=p9KZILKv5E4) - Sept. 2020
+- 🇫🇷 [Svelte, pourquoi tant de hype ? - RemoteClazz Zenika](https://www.youtube.com/watch?v=b4U2vxdADg4) - Apr. 2020
+- 🇫🇷 Svelte, pourquoi tant de hype ? - BrestJS - Nov. 2019
+- 🇫🇷 Polymer & web components - BrestJS - Oct. 2018
