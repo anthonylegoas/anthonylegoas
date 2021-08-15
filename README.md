@@ -27,7 +27,9 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)
+![Gitlab CI](https://img.shields.io/badge/-GitlabCI-05122A?style=flat&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitHub actions](https://img.shields.io/badge/-GitHubActions-05122A?style=flat&logo=github)
 
 ## ✍️ Posts
 
