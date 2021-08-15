@@ -47,3 +47,7 @@
 - 🇫🇷 [Svelte, pourquoi tant de hype ? - RemoteClazz Zenika](https://www.youtube.com/watch?v=b4U2vxdADg4) - Apr. 2020
 - 🇫🇷 Svelte, pourquoi tant de hype ? - BrestJS - Nov. 2019
 - 🇫🇷 Polymer & web components - BrestJS - Oct. 2018
+
+## 🎧 Podcasts
+
+- 🇫🇷 [Arrêter le “script” de javascript pour améliorer les performances](https://ifttd.io/54-arreter-le-script-de-javascript-pour-ameliorer-les-performances-anthony-le-goas-et-bruno-sabot/) - IFTTD - If This Then Dev #54
