@@ -38,8 +38,9 @@
 - 🇬🇧 [Svelte, why so much hype ?](https://dev.to/zenika/svelte-why-so-much-hype-2k61)
 - 🇫🇷 [Svelte, pourquoi tant de hype ?](https://medium.com/@anthony.legoas/svelte-pourquoi-tant-de-hype-3ead1a8fab5f)
 
-## 📢 Talks
+## 📢 Talks & workshops
 
+- 🇫🇷 Devenir svelte avec Svelte - DevFest Nantes 2021 - Oct. 2021
 - 🇫🇷 Compilez pour l'accessibilité avec Svelte - Best Of TZ Zenika - July 2021
 - 🇫🇷 Devenir Svelte en 10min - Human Talks - May 2021
 - 🇬🇧 Compile for accessibility with Svelte - Svelte Summit - Apr. 2021
