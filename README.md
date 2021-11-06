@@ -5,6 +5,8 @@
   <a href="https://twitter.com/intent/follow?screen_name=anthony_legoas&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/anthony_legoas?label=%40anthony_legoas&style=social"></a>
 </p>
 
+I'm CTO at Zenika Brest, web developer, and co-organizer of Svelte Society France, UX Design Brest and BrestJS communities.
+
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylegoas&layout=compact)
 
 ## 🔧 Tools and languages
@@ -40,7 +42,7 @@
 
 ## 📢 Talks & workshops
 
-- 🇫🇷 Devenir svelte avec Svelte - DevFest Nantes 2021 - Oct. 2021
+- 🇫🇷 Devenir svelte avec Svelte - [DevFest Nantes 2021](https://devfest2021.gdgnantes.com/) - Oct. 2021
 - 🇫🇷 Compilez pour l'accessibilité avec Svelte - Best Of TZ Zenika - July 2021
 - 🇫🇷 Devenir Svelte en 10min - Human Talks - May 2021
 - 🇬🇧 Compile for accessibility with Svelte - Svelte Summit - Apr. 2021
