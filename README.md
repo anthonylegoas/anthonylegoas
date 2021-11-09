@@ -48,8 +48,8 @@ I'm CTO at Zenika Brest, web developer, and co-organizer of Svelte Society Franc
 - 🇬🇧 [Compile for accessibility with Svelte](https://youtu.be/fnr9XWvjJHw?t=14863) - Svelte Summit - Apr. 2021
 - 🇫🇷 [Svelte, le framework qui sauve les bébés phoques - Svelte Society Day France](https://www.youtube.com/watch?v=p9KZILKv5E4) - Sept. 2020
 - 🇫🇷 [Svelte, pourquoi tant de hype ? - RemoteClazz Zenika](https://www.youtube.com/watch?v=b4U2vxdADg4) - Apr. 2020
-- 🇫🇷 Svelte, pourquoi tant de hype ? - BrestJS - Nov. 2019
-- 🇫🇷 Polymer & web components - BrestJS - Oct. 2018
+- 🇫🇷 Svelte, pourquoi tant de hype ? - [BrestJS](https://www.meetup.com/fr-FR/BrestJS/) - Nov. 2019
+- 🇫🇷 Polymer & web components - [BrestJS](https://www.meetup.com/fr-FR/BrestJS/) - Oct. 2018
 
 ## 🎧 Podcasts
 
