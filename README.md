@@ -42,6 +42,7 @@ I'm CTO at Zenika Brest, web developer, and co-organizer of Svelte Society Franc
 
 ## 📢 Talks & workshops
 
+- 🇫🇷 Devenir svelte avec Svelte - [Snowcamp 2022](https://snowcamp2022.sched.com/) - Feb. 2021
 - 🇫🇷 Devenir svelte avec Svelte - [DevFest Nantes 2021](https://devfest2021.gdgnantes.com/) - Oct. 2021
 - 🇫🇷 Compilez pour l'accessibilité avec Svelte - Best Of TZ Zenika - July 2021
 - 🇫🇷 Devenir Svelte en 10min - [Human Talks](https://humantalks.com/) - May 2021
