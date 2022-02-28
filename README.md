@@ -9,7 +9,7 @@ I'm web and mobile developer, managing director of Zenika Brest and co-organizer
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylegoas&layout=compact)
 
-## 🔧 Tools and languages
+## ✨ Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
