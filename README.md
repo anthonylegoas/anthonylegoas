@@ -5,7 +5,9 @@
   <a href="https://twitter.com/intent/follow?screen_name=anthony_legoas&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/anthony_legoas?label=%40anthony_legoas&style=social"></a>
 </p>
 
-I'm web and mobile developer, managing director of Zenika Brest and co-organizer of Svelte Society France, UX Design Brest and BrestJS communities.
+👨‍💻 Tech lead, trainer, speaker and managing director of Zenika Brest.
+<br>
+🙋‍♂️ Involved in technology communities, I'm also co-organizer of Svelte Society France, UX Design Brest and BrestJS.
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylegoas&layout=compact)
 
