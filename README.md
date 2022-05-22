@@ -44,7 +44,7 @@
 
 ## 📢 Talks & workshops
 
-- 🇫🇷 Devenir svelte avec Svelte - Breizhcamp 2022 - June 2022
+- 🇫🇷 Devenir svelte avec Svelte - [Breizhcamp 2022](https://www.breizhcamp.org/) - June 2022
 - 🇫🇷 Devenir svelte avec Svelte - [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/QWC-2883/_Devenir_svelte_avec_Svelte) - Apr. 2022
 - 🇫🇷 Devenir svelte avec Svelte - [Snowcamp 2022](https://snowcamp2022.sched.com/) - Feb. 2022
 - 🇫🇷 Devenir svelte avec Svelte - [DevFest Nantes 2021](https://devfest2021.gdgnantes.com/) - Oct. 2021
