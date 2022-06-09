@@ -47,6 +47,7 @@
 
 ## 📢 Talks & workshops
 
+- 🇫🇷 Devenir svelte avec Svelte - [Paris Web 2022](https://www.paris-web.fr/2022/ateliers/ateliers-doubles/devenir-svelte-avec-svelte.php/) - Oct. 2022
 - 🇫🇷 Devenir svelte avec Svelte - [Breizhcamp 2022](https://www.breizhcamp.org/) - June 2022
 - 🇫🇷 Devenir svelte avec Svelte - [Devoxx France 2022](https://cfp.devoxx.fr/2022/talk/QWC-2883/_Devenir_svelte_avec_Svelte) - Apr. 2022
 - 🇫🇷 Devenir svelte avec Svelte - [Snowcamp 2022](https://snowcamp2022.sched.com/) - Feb. 2022
