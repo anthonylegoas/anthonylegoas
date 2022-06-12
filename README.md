@@ -7,7 +7,7 @@
 
 👨‍💻 Tech lead, trainer, speaker and managing director of Zenika Brest.
 <br>
-🙋‍♂️ Involved in technology communities, I'm also co-organizer of Svelte Society France, UX Design Brest and BrestJS.
+🙋‍♂️ Involved in technology communities, I'm co-organizer of Svelte Society France, UX Design Brest and BrestJS.
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylegoas&layout=compact)
 
