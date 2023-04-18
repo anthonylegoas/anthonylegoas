@@ -48,6 +48,7 @@
 ## 📢 Talks & workshops
 
 - 🇫🇷 Sous le capot des navigateurs web - [Le camping des speakers 2023](https://verytechtrip.com/) - Jun. 2023
+- 🇫🇷 Sous le capot des navigateurs web - [Web2day 2023](https://web2day.co/) - Jun. 2023
 - 🇫🇷 Sous le capot des navigateurs web - [Very Tech Trip 2023](https://verytechtrip.com/) - Fév. 2023
 - 🇫🇷 Comment automatiser ses tests d'accessibilité - [Snowcamp 2023](https://snowcamp.io/fr/) - Jan. 2023
 - 🇫🇷 Devenir svelte avec Svelte - [Volcamp 2022](https://www.volcamp.io/) - Oct. 2022
