@@ -47,7 +47,7 @@
 
 ## 📢 Talks & workshops
 
-- 🇫🇷 Sous le capot des navigateurs web - [Le camping des speakers 2023](https://verytechtrip.com/) - Jun. 2023
+- 🇫🇷 Sous le capot des navigateurs web - [Le camping des speakers 2023](https://camping-speakers.fr/) - Jun. 2023
 - 🇫🇷 Sous le capot des navigateurs web - [Web2day 2023](https://web2day.co/) - Jun. 2023
 - 🇫🇷 Sous le capot des navigateurs web - [FinistDevs](https://www.meetup.com/fr-FR/finistdevs/events/293321589/) - May 2023
 - 🇫🇷 Sous le capot des navigateurs web - [Very Tech Trip 2023](https://verytechtrip.ovhcloud.com/fr/sessions/) - Fév. 2023
