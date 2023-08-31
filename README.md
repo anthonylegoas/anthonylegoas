@@ -54,7 +54,7 @@
 
 ### Past
 - 🇫🇷 Comment automatiser ses tests d'accessibilité - [Breizhcamp 2023](https://www.breizhcamp.org/) - Jun. 2023
-- 🇫🇷 Sous le capot des navigateurs web - [Breizhcamp 2023](https://www.breizhcamp.org/) - Jun. 2023
+- 🇫🇷 Sous le capot des navigateurs web - [Breizhcamp 2023](https://www.breizhcamp.org/) - Jun. 2023 [🎥 video](https://www.youtube.com/watch?v=witVrs6V4mE&list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j&index=33&pp=iAQB)
 - 🇫🇷 Sous le capot des navigateurs web - [Le camping des speakers 2023](https://camping-speakers.fr/) - Jun. 2023
 - 🇫🇷 Sous le capot des navigateurs web - [Web2day 2023](https://web2day.co/) - Jun. 2023
 - 🇫🇷 Sous le capot des navigateurs web - [FinistDevs](https://www.meetup.com/fr-FR/finistdevs/events/293321589/) - May 2023
